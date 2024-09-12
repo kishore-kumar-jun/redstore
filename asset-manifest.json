@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/redstore/static/css/main.c19ffbe5.css",
+    "main.js": "/redstore/static/js/main.50d5387f.js",
+    "index.html": "/redstore/index.html",
+    "main.c19ffbe5.css.map": "/redstore/static/css/main.c19ffbe5.css.map",
+    "main.50d5387f.js.map": "/redstore/static/js/main.50d5387f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c19ffbe5.css",
+    "static/js/main.50d5387f.js"
+  ]
+}
